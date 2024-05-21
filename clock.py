@@ -11,7 +11,7 @@ and time
   ------------------------------------
 """
 from turtle import *
-from datetime import datetime
+from datetime import datetime, date
 
 def jump(distanz, winkel=0):
     penup()
